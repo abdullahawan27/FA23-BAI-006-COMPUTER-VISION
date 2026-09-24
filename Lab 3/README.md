@@ -1,5 +1,5 @@
 
-## 11. Discussion Questions
+##  Discussion Questions
 
 ### Q1. Edge Detection and Noise
 The detector with the highest noise sensitivity is identified from Table 1 by its measured false/high-density response on noisy input. The Laplacian is generally expected to be strongly affected because it responds to rapid intensity changes, including noise.
